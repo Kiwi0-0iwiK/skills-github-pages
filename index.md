@@ -1,14 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog!awa
 ---
-
-# 1
-## 2
-### 3
-#### 4
-##### 5
-###### 6
-
-```
-code
-```
